@@ -1,0 +1,24 @@
+.cuerpo{
+    background-color: rgb(187, 187, 187);
+}
+span{
+    font-style: italic;
+    font-weight: 700;
+}
+.text{
+    background-color: rgba(219, 157, 0, 0.705);
+    padding: 18px;
+    text-align: center;
+    border-radius: 8px;
+    
+}
+p, .text{
+    margin: 2px;
+}
+.enlaces{
+    text-align: center;
+}
+
+.enlaces, li{
+    padding: 5px;
+}
